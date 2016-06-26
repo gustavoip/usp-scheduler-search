@@ -1,0 +1,1718 @@
+SME0280 Acompanhamento Profissional I
+SME0281 Acompanhamento Profissional II
+SME0282 Acompanhamento Profissional III
+SME0283 Acompanhamento Profissional IV
+SSC0152 Administração e Gerenciamento de Redes
+SSC0542 Administração e Gerenciamento de Redes
+SSC0170 Administração e Informatização da Manufatura
+SCC0274 Agrupamento de Dados
+SCC0574 Agrupamento de Dados
+SMA0358 Álgebra Avançada
+SMA0305 Álgebra I
+SMA0306 Álgebra II
+SMA0173 Álgebra III
+SMA0304 Álgebra Linear
+SMA0804 Álgebra Linear
+SME0141 Álgebra Linear e Equações Diferenciais
+SME0341 Álgebra Linear e Equações Diferenciais
+SME0641 Álgebra Linear e Equações Diferenciais
+SME0203 Álgebra Linear Numérica
+SCC0210 Algoritmos Avançados
+SCC0218 Algoritmos Avançados e Aplicações
+SCC0202 Algoritmos e Estruturas de Dados I
+SCC0502 Algoritmos e Estruturas de Dados I
+SCC0602 Algoritmos e Estruturas de Dados I
+SCC0203 Algoritmos e Estruturas de Dados II
+SCC0503 Algoritmos e Estruturas de Dados II
+SCC0603 Algoritmos e Estruturas de Dados II
+SCC0212 Algoritmos em Grafos
+SMA0337 Análise Crítica de Livros Didáticos
+SMA0349 Análise das Orientações Curriculares de Matemática para o Ensino Básico
+SME0811 Análise de Dados Categorizados
+SME0260 Análise de Regressão
+SME0820 Análise de Regressão
+SME0262 Análise de Séries Temporais em Finanças
+SME0261 Análise de Sobrevivência e Confiabilidade
+SME0821 Análise de Sobrevivência e Confiabilidade
+SSC0124 Análise e Projeto Orientados a Objetos
+SSC0526 Análise e Projeto Orientados a Objetos
+SSC0621 Análise e Projeto Orientados a Objetos
+SME0803 Análise Exploratória de Dados
+SMA0307 Análise I
+SMA0308 Análise II
+SME0263 Análise Multivariada
+SME0822 Análise Multivariada
+SMA0347 Análise para Licenciatura
+SMA0145 Aplicações da Topologia à Análise
+SCC0233 Aplicações de Aprendizado de Máquina e Mineração de Dados
+SCC0634 Aplicações de Inteligência Artificial
+SMA0357 Aplicações de Teoria dos Conjuntos
+SSC0114 Arquitetura de Computadores
+SSC0510 Arquitetura de Computadores
+SSC0611 Arquitetura de Computadores
+SCC0243 Arquitetura de Sistemas Gerenciadores de Bases de Dados
+SSC0581 Atividades Acadêmicas Científicas e Culturais I
+SSC0582 Atividades Acadêmicas Científicas e Culturais II
+SSC0583 Atividades Acadêmicas Científicas e Culturais III
+SSC0584 Atividades Acadêmicas Científicas e Culturais IV
+SCC0295 Atividades Acadêmicas Científicas, de Extensão e Culturais I
+SCC0296 Atividades Acadêmicas Científicas, de Extensão e Culturais II
+5500001 Atividades acadêmico-científico-culturais
+SMA0351 Atividades Acadêmico-Científico-Culturais I
+SMA0352 Atividades Acadêmico-Científico-Culturais II
+SSC0153 Avaliação de Desempenho de Sistemas Computacionais
+SSC0643 Avaliação de Desempenho de Sistemas Computacionais
+SSC0546 Avaliação de Sistemas Computacionais
+SCC0141 Bancos de Dados e Suas Aplicações
+SCC0240 Bases de Dados
+SCC0540 Bases de Dados
+SCC0640 Bases de Dados
+SME0871 Bioestatística
+SMA0301 Cálculo I
+SMA0353 Cálculo I
+SMA0501 Cálculo I
+SMA0801 Cálculo I
+SMA0332 Cálculo II
+SMA0354 Cálculo II
+SMA0506 Cálculo II
+SMA0802 Cálculo II
+SMA0333 Cálculo III
+SMA0355 Cálculo III
+SMA0803 Cálculo III
+SMA0356 Cálculo IV
+SME0104 Cálculo Numérico
+SME0300 Cálculo Numérico
+SME0500 Cálculo Numérico
+SME0602 Cálculo Numérico
+SME0100 Cálculo Numérico I
+SME0200 Cálculo Numérico I
+SME0600 Cálculo Numérico I
+SME0101 Cálculo Numérico II
+SME0201 Cálculo Numérico II
+SME0601 Cálculo Numérico II
+SME0892 Cálculo Numérico para Estatística
+SSC0711 Co-projeto de Hardware/Software para Sistemas Embarcados
+SMA0123 Complementos de Álgebra Linear
+SMA0330 Complementos de Geometria e Vetores
+SSC0151 Computação Distribuída
+SSC0744 Computação Distribuída
+SSC0158 Computação em Nuvem e Arquitetura Orientadas a Serviços
+SCC0250 Computação Gráfica
+SCC0650 Computação Gráfica
+SSC0156 Computação Pervasiva
+SCC0207 Computadores e Sociedade I
+SCC0208 Computadores e Sociedade II
+SSC0572 Computadores, Sociedade e Ética Profissional
+SMA0142 Curvas Algébricas Planas
+SME0872 Demografia
+SMA0339 Didática
+SME0890 Direcionamento Acadêmico I
+SME0891 Direcionamento Acadêmico II
+SME0873 Econometria
+SSC0512 Elementos de Lógica Digital
+SSC0110 Elementos de Lógica Digital I
+SSC0113 Elementos de Lógica Digital II
+SMA0341 Elementos de Matemática
+SMA0345 Elementos Históricos e Didáticos da Educação Matemática
+SSC0180 Eletrônica para Computação
+SCC0209 Empreendedores em Informática
+SSC0570 Empreendedorismo
+SSC0547 Engenharia de Segurança
+SSC0747 Engenharia de Segurança
+SSC0624 Engenharia de Sistemas de Informação
+SSC0521 Engenharia de Sistemas de Informação I
+SSC0522 Engenharia de Sistemas de Informação II
+SSC0130 Engenharia de Software
+SSC0527 Engenharia de Software
+SSC0620 Engenharia de Software
+SSC0525 Engenharia de Software Apoiada Por Computador
+SSC0121 Engenharia de Software I
+SSC0122 Engenharia de Software II
+SSC0720 Engenharia de Software para Sistemas Embarcados
+SMA0350 Ensino de Matemática para Alunos com Necessidades Especiais
+SMA0328 Ensino de Matemática Por Múltiplas Mídias
+SME0240 Equações Diferenciais Ordinárias
+SME0340 Equações Diferenciais Ordinárias
+SME0840 Equações Diferenciais Ordinárias
+SMA0169 Equações Diferenciais Parciais
+SMA0343 Espaços Métricos
+SME0284 Estágio Supervisionado
+SMA0367 Estágio Supervisionado em Ensino de Geometria e Desenho Geométrico
+SMA0370 Estágio Supervisionado em Ensino de Matemática I
+SMA0371 Estágio Supervisionado em Ensino de Matemática II
+SSC0591 Estágio Supervisionado I
+SSC0672 Estágio Supervisionado I
+SSC0592 Estágio Supervisionado II
+SSC0673 Estágio Supervisionado II
+SME0123 Estatística
+SME0806 Estatística Computacional
+SME0320 Estatística I
+SME0620 Estatística I
+SMA0338 Estrutura e Funcionamento do Ensino Fundamental e Médio
+SCC0122 Estruturas de Dados
+SCC0223 Estruturas de dados I
+SCC0224 Estruturas de dados II
+SSC0571 Evolução Histórica da Computação e Aplicações
+SMA0327 Filosofia da Educação Matemática
+SMA0326 Filosofia da Matemática
+SME0214 Fluxos em Redes
+SME0245 Funções de Variável Complexa
+SME0345 Funções de Variável Complexa
+SME0645 Funções de Variável Complexa
+SSC0520 Fundamentos de Sistemas de Informação
+SMA0334 Fundamentos para a Matemática do Ensino Superior
+SMA0309 Geometria
+SMA0300 Geometria Analítica
+SMA0800 Geometria Analítica
+SMA0175 Geometria Diferencial
+SMA0310 Geometria e Desenho  Geométrico
+SMA0369 Geometria para a Licenciatura
+SSC0128 Gerência de Projetos
+SME0266 Gestão da Qualidade
+SME0824 Gestão da Qualidade
+SSC0531 Gestão de Sistemas de Informação
+SCC0262 Hipermídia
+SCC0562 Hipermídia
+SMA0368 História da Educação e das Orientações Curriculares de Matemática Brasileiras
+SMA0329 História da Matemática
+SMA0348 História da Matemática no Ensino
+SME0809 Inferência Bayesiana
+SME0818 Inferência Estatística
+SME0802 Inferência I
+SME0804 Inferência II
+SCC0200 Informação Profissional em Ciências da Computação
+SSC0671 Informação Profissional em Engenharia de Computação II
+SCC0230 Inteligência Artificial
+SCC0530 Inteligência Artificial
+SCC0630 Inteligência Artificial
+SCC0260 Interação Usuário-computador
+SCC0560 Interação Usuário-Computador
+SCE021 Introducao a a Redes Neurais
+SMA0120 Introdução à Análise Funcional
+SCC0271 Introdução à Bioinformática
+SSC0575 Introdução à Bioinformática
+SCC0120 Introdução à Ciência da Computação
+SCC0801 Introdução à Ciência da Computação II
+SCC0221 Introdução à Ciência de Computação I
+SSC0101 Introdução à Ciência de Computação I
+SSC0501 Introdução à Ciência de Computação I
+SSC0600 Introdução à Ciência de Computação I
+SSC0800 Introdução à Ciência de Computação I
+SCC0201 Introdução à Ciência de Computação II
+SCC0501 Introdução à Ciência de Computação II
+SSC0503 Introdução à Ciência de Computação II
+SSC0602 Introdução à Ciência de Computação II
+SCC0206 Introdução à Compilação
+SCC0272 Introdução à Computação Bioinspirada
+SSC0301 Introdução à Computação para Engenharia Ambiental
+SME0520 Introdução à Estatística
+SME0272 Introdução à Geometria Computacional
+SME0122 Introdução à Inferência Estatística
+SME0221 Introdução à Inferência Estatística
+SSC0117 Introdução à Lógica Digital
+SME0241 Introdução à Modelagem Matemática
+SME0510 Introdução à Pesquisa Operacional
+SCC0121 Introdução à Programação
+SME0230 Introdução à Programação de Computadores
+SME0330 Introdução à Programação de Computadores
+SCC0172 Introdução à Programação para Biologia Molecular
+SCC0124 Introdução à Programação para Engenharias
+SSC0304 Introdução à Programação para Engenharias
+SCC0270 Introdução à Redes Neurais
+SCC0570 Introdução a Redes Neurais
+SCC0670 Introdução a Redes Neurais
+SSC0530 Introdução a Sistemas de Informação
+SCC0231 Introdução a Sistemas Inteligentes
+SCC0531 Introdução a Sistemas Inteligentes
+SCC0631 Introdução a Sistemas Inteligentes
+SCC0505 Introdução à Teoria da Computação
+SMA0143 Introdução à Teoria da Medida
+SME0120 Introdução à Teoria das Probabilidades
+SME0220 Introdução à Teoria das Probabilidades
+SMA0192 Introdução à Topologia Diferencial
+SCC0219 Introdução ao Desenvolvimento Web
+SMA0125 Introdução ao Estudo das Singularidades de Aplicações Diferenciáveis
+SMA0340 Introdução aos Estudos da Educação
+SMA0193 Introdução aos Grupos de Lie
+SMA0344 Introdução aos Sistemas Dinâmicos
+SCC0211 Laboratório de Algoritmos Avançados
+SCC0241 Laboratório de Bases de Dados
+SCC0541 Laboratório de Bases de Dados
+SCC0641 Laboratório de Bases de Dados
+SSC0111 Laboratório de Elementos de Lógica Digital
+SCC0220 Laboratório de Introdução à Ciência da Computação II
+SCC0222 Laboratório de Introdução à Ciência de Computação I
+SSC0102 Laboratório de Introdução à Ciência de Computação I
+SSC0502 Laboratório de Introdução à Ciência de Computação I
+SSC0601 Laboratório de Introdução à Ciência de Computação I
+SSC0801 Laboratório de Introdução à Ciência de Computação I
+SME0215 Laboratório de Otimização
+SMA0372 Língua Brasileira de Sinais para Licenciatura
+SSC0300 Linguagens de Programação e Aplicações
+SCC0217 Linguagens de Programação e Compiladores
+SMA0112 Matemática Aplicada
+SMA0508 Matemática Discreta
+SMA0180 Matemática Discreta I
+SMA0503 Matemática Discreta I
+SMA0181 Matemática Discreta II
+SME0343 Matemática para Arquitetura I
+SME0344 Matemática para Arquitetura II
+SME0819 Matrizes Aplicadas à Estatística
+SMA0505 Matrizes, Vetores e Geometria Analítica
+SME0251 Mecânica dos Fluidos Computacional I
+SME0253 Mecânica dos Fluidos Computacional II
+SMA0360 Medida e Integração
+SME0254 Método dos Elementos Finitos Aplicados à Mecânica dos Fluídos
+SME0813 Metodologia Científica
+SME0825 Metodologia Científica I
+SME0826 Metodologia Científica II
+SMA0365 Metodologia de Ensino de Matemática I
+SMA0366 Metodologia de Ensino de Matemática II
+SCC0213 Metodologia de Pesquisa em Computação
+SMA0346 Metodologia de Pesquisa em Educação Matemática
+SME0205 Métodos do Cálculo Numérico I
+SME0206 Métodos do Cálculo Numérico II
+SSC0129 Métodos e Técnicas para Análise e Projeto de Sistemas Reativos
+SSC0722 Métodos e Técnicas para Análise e Projeto de Sistemas Reativos
+SME0810 Métodos Não Paramétricos
+SME0204 Métodos Numéricos
+SME0305 Métodos Numéricos e Computacionais I
+SME0306 Métodos Numéricos e Computacionais II
+SME0202 Métodos Numéricos em Equações Diferenciais
+SME0301 Métodos Numéricos para Engenharia I
+SME0302 Métodos Numéricos para Engenharia II
+SME0250 Métodos Numéricos para Geração de Malhas
+SSC0116 Microprocessadores e Microcomputadores I
+SCC0244 Mineração a partir de Grandes Bases de Dados
+SCC0173 Mineração de Dados Biológicos
+SME0878 Mineração Estatística de Dados
+SCC0216 Modelagem Computacional em Grafos
+SSC0160 Modelagem e Simulação de Sistemas Computacionais
+SME0271 Modelagem Geométrica
+SME0242 Modelagem Matemática
+SME0812 Modelos Lineares
+SME0264 Modelos Lineares Generalizados
+SME0823 Modelos Lineares Generalizados
+SCC0261 Multimídia
+SCC0561 Multimídia
+SCC0661 Multimídia e Hipermídia
+SCC0215 Organização de Arquivos
+SSC0511 Organização de Computadores Digitais
+SSC0112 Organização de Computadores Digitais I
+SSC0610 Organização de Computadores Digitais I
+SME0213 Otimização Inteira
+SME0211 Otimização Linear
+SME0212 Otimização Não Linear
+SCC0266 Padrões de Projeto em Desenvolvimento Web
+SCC0666 Padrões de Projeto em Desenvolvimento WEB
+SME0265 Planejamento de Experimentos
+SME0816 Planejamento de Experimentos I
+SME0817 Planejamento de Experimentos II
+SMA0200 Prática de Ensino de Geometria e Desenho Geométrico
+SMA0186 Prática de Ensino de Matemática I
+SMA0187 Prática de Ensino de Matemática II
+SSC0119 Prática em Organização de Computadores
+SME0800 Probabilidade I
+SME0801 Probabilidade II
+SCC0245 Processamento Analítico de Dados
+SCC0251 Processamento de Imagens
+SCC0651 Processamento de Imagens
+SCC0633 Processamento de Linguagem Natural
+SME0121 Processos Estocásticos
+SME0805 Processos Estocásticos
+SSC0143 Programação Concorrente
+SSC0742 Programação Concorrente
+SSC0712 Programação de Robôs Móveis
+SME0110 Programação Matemática
+SME0210 Programação Matemática
+SME0610 Programação Matemática
+SCC0204 Programação Orientada a Objetos
+SCC0504 Programação Orientada a Objetos
+SCC0604 Programação Orientada a Objetos
+SSC0103 Programação Orientada a Objetos
+SCC0214 Projeto de Algoritmos
+SSC0670 Projeto de Formatura I
+SSC0674 Projeto de Formatura II
+SME0285 Projeto de Graduação
+SME0880 Projeto de Graduação em Estatística I
+SME0881 Projeto de Graduação em Estatística II
+SCC0293 Projeto de Graduação I
+SSC0593 Projeto de Graduação I
+SCC0294 Projeto de Graduação II
+SSC0594 Projeto de Graduação II
+SSC0741 Projeto e Implementação de Sistemas Embarcados I
+SSC0710 Projeto e Implementação de Sistemas Embarcados II
+SSC0595 Projeto Empreendedor I
+SSC0675 Projeto Empreendedor I
+SSC0596 Projeto Empreendedor II
+SSC0676 Projeto Empreendedor II
+SME0814 Projeto Supervisionado em Estatística I
+SME0815 Projeto Supervisionado em Estatística II
+SCC0291 Projeto Supervisionado I
+SCC0292 Projeto Supervisionado II
+SME0270 Projeto Supervisionado ou de Graduação
+SCC0298 Projeto Supervisionado ou de Graduação I
+SSC0573 Projeto Supervisionado ou de Graduação I
+SCC0299 Projeto Supervisionado ou de Graduação II
+SSC0574 Projeto Supervisionado ou de Graduação II
+SCC0814 Projetos de Algoritmos
+SCC0246 Recuperação de Dados por Conteúdo
+SME0130 Redes Complexas
+SSC0144 Redes de Alto Desempenho
+SSC0545 Redes de Alto Desempenho
+SSC0142 Redes de Computadores
+SSC0540 Redes de Computadores
+SSC0641 Redes de Computadores
+SSC0548 Redes Móveis
+SSC0748 Redes Móveis
+SSC0714 Robôs Móveis Autônomos
+SCC0273 Robôs Móveis Inteligentes
+SSC0126 Seminários Avançados de Engenharia de Software I
+SSC0127 Seminários Avançados de Engenharia de Software II
+SCC0238 Seminários Avançados de Inteligência Artificial I
+SCC0239 Seminários Avançados de Inteligência Artificial II
+SME0102 Seminários Avançados de Matemática Computacional I
+SME0103 Seminários Avançados de Matemática Computacional II
+SCC0278 Seminários Avançados de Redes Neurais I
+SCC0279 Seminários Avançados de Redes Neurais II
+SCC0248 Seminários Avançados em Banco de Dados I
+SCC0249 Seminários Avançados em Banco de Dados II
+SCC0258 Seminários Avançados em Computação Visual I
+SCC0259 Seminários Avançados em Computação Visual II
+SSC0154 Seminários Avançados em Sistemas Distribuídos e Programação Concorrente I
+SSC0155 Seminários Avançados em Sistemas Distribuídos e Programação Concorrente II
+SCC0268 Seminários Avançados em Sistemas Hipermídia e Multimídia I
+SCC0269 Seminários Avançados em Sistemas Hipermídia e Multimídia II
+SME0111 Seminários de Otimização I
+SME0112 Seminários de Otimização II
+SCC0227 Seminários em Computação I
+SSC0576 Seminários em Computação I
+SCC0228 Seminários em Computação II
+SSC0577 Seminários em Computação II
+SCC0229 Seminários em Computação III
+SSC0578 Seminários em Computação III
+SSC0715 Sensores Inteligentes
+SME0808 Séries Temporais
+SME0255 Simulação Computacional de Fluidos
+SSC0528 Sistemas Colaborativos: Fundamentos e Aplicações
+SSC0723 Sistemas Colaborativos: Fundamentos e Aplicações
+SSC0745 Sistemas Computacionais de Tempo Real
+SSC0150 Sistemas Computacionais Distribuídos
+SSC0543 Sistemas Computacionais Distribuídos
+SSC0642 Sistemas Computacionais Distribuídos
+SSC0746 Sistemas Computacionais Tolerantes a Falhas
+SSC0146 Sistemas de Computação Tolerantes a Falhas
+SSC0120 Sistemas de Informação
+SSC0622 Sistemas de Informação
+SSC0145 Sistemas de Processamento de Dados Em Tempo Real
+SSC0118 Sistemas Digitais
+SSC0529 Sistemas Educacionais Avançados
+SSC0724 Sistemas Educacionais Avançados
+SSC0740 Sistemas Embarcados
+SME0252 Sistemas Esparsos e Computação Paralela
+SME0222 Sistemas Estocásticos
+SSC0713 Sistemas Evolutivos e Aplicados à Robótica
+SCC0265 Sistemas Interativos Web
+SCC0565 Sistemas Interativos WEB
+SSC0140 Sistemas Operacionais I
+SSC0541 Sistemas Operacionais I
+SSC0640 Sistemas Operacionais I
+SSC0141 Sistemas Operacionais II
+SSC0743 Sistemas Operacionais II
+SME0807 Técnicas de Amostragem
+SCC0264 Técnicas de Programação para Middleware
+SCC0263 Técnicas de Programação para Web
+SCC0563 Técnicas de Programação para Web
+SCC0605 Teoria da Computação e Compiladores
+SCC0205 Teoria da Computação e Linguagens Formais
+SME0876 Teoria de Resposta ao Item
+SSC0623 Teoria e Prática dos Sistemas de Informação
+SMA0139 Teoria Elementar dos Números
+SME0243 Teoria Espectral de Matrizes
+SMA0136 Teoria Qualitativa de Equações Diferenciais Ordinárias
+SSC0721 Teste e Inspeção de Software
+SSC0159 Tópicos Avançados em Computação de Alto Desempenho
+SSC0157 Tópicos Avançados em Comunicação
+SCC0232 Tópicos Avançados em Inteligência Artificial
+SCC0532 Tópicos Avançados em Inteligência Artificial
+SCC0632 Tópicos Avançados em Inteligência Artificial
+SSC0544 Tópicos Avançados em Sistemas Distribuídos
+SSC0171 Tópicos Avançados em Sistemas Embarcados e Evolutivos
+SMA0805 Tópicos de Matemática
+SME0273 Tópicos de Matemática Aplicada I
+SME0275 Tópicos de Matemática Aplicada III
+SMA0178 Tópicos de Matemática Elementar e Estatística
+SMA0361 Tópicos de Matemática I
+SMA0362 Tópicos de Matemática II
+SMA0363 Tópicos de Matemática III
+SMA0364 Tópicos de Matemática IV
+SME0216 Tópicos de Otimização Combinatória
+SME0274 Tópicos em Matemática Aplicada II
+SME0276 Tópicos em Matemática Aplicada IV
+SCC0242 Tópicos Especiais em Banco de Dados
+SCC0542 Tópicos Especiais em Banco de Dados
+SCC0253 Tópicos Especiais em Computação Gráfica I
+SSC0123 Tópicos Especiais em Engenharia de Software
+SSC0523 Tópicos Especiais em Engenharia de Software
+SME0870 Tópicos Especiais em Estatística Aplicada I
+SME0875 Tópicos Especiais em Estatística Aplicada II
+SSC0115 Tópicos Especiais em Hardware
+SSC0147 Tópicos Especiais em Sistemas de Computação I
+SSC0148 Tópicos Especiais em Sistemas de Computação II
+SSC0149 Tópicos Especiais em Sistemas de Computação III
+SMA0171 Topologia
+SMA0359 Topologia Avançada
+SSC0125 Verificação, Validação e Teste de Software
+SSC0524 Verificação, Validação e Teste de Software
+SCC0252 Visualização Computacional
+SCC0652 Visualização Computacional
+1800040 A Ética e a Responsabilidade Social em Engenharia
+SEP0101 Abordagens para a Identificação e Solução de Problemas de Engenharia de Produção
+SEL0342 Acionamento e Controle de Máquinas Elétricas
+SHS0315 Ações Mitigadoras de Impactos Ambientais
+SHS0371 Ações Mitigadoras de Impactos Ambientais I
+SHS0372 Ações Mitigadoras de Impactos Ambientais II
+SEP0322 Adequação Ambiental de Empresas
+SEP0358 Adequação Ambiental de Empresas I: Técnicas de Avaliação
+SEP0359 Adequação Ambiental de Empresas II: Sistemas e Programas
+SEP0528 Administração da Produção na Construção Civil
+SEP0529 Administração e Empreendedorismo
+SAA0188 Aeroacústica
+SAA0199 Aerodinâmica Computacional
+SAA0186 Aerodinâmica dos Escoamentos Compressíveis
+SAA0109 Aerodinâmica I
+SAA0110 Aerodinâmica II
+SAA0159 Aeroelasticidade
+SAA0115 Aeronaves
+STT0403 Aeroportos, Portos e Vias Navegáveis
+SCC0274 Agrupamento de Dados
+SCC0574 Agrupamento de Dados
+SCC0210 Algoritmos Avançados
+SCC0218 Algoritmos Avançados e Aplicações
+SCC0202 Algoritmos e Estruturas de Dados I
+SCC0502 Algoritmos e Estruturas de Dados I
+SCC0602 Algoritmos e Estruturas de Dados I
+SCC0203 Algoritmos e Estruturas de Dados II
+SCC0503 Algoritmos e Estruturas de Dados II
+SCC0603 Algoritmos e Estruturas de Dados II
+SCC0212 Algoritmos em Grafos
+SET0606 Alvenaria Estrutural
+SHS0353 Análise Ambiental: Gestão de Áreas Protegidas
+SEM0562 Análise Computacional de Estruturas
+SHS0380 Análise de Paisagem
+STT0622 Análise de Tensões e Deformações em Pavimentos
+SEL0436 Análise e Controle de Conversores CC-CC Empregados em Fontes Alternativas de Energia
+SEL0331 Análise Estática de Sistemas de Energia Elétrica
+SET0610 Análise Experimental de Estruturas
+SEL0344 Antenas
+SEL0336 Aplicação de Microprocessadores I
+SEL0433 Aplicação de Microprocessadores I
+SEL0337 Aplicação de Microprocessadores II
+SEL0356 Aplicação de Processamento Digital de Sinais
+SCC0233 Aplicações de Aprendizado de Máquina e Mineração de Dados
+SCC0634 Aplicações de Inteligência Artificial
+SEL0629 Aplicações de Microprocessadores I
+SEL0630 Aplicações de Microprocessadores II
+SEP0548 Aplicações do Pensamento Administrativo
+SHS0115 Aproveitamentos Hidroelétricos
+SCC0243 Arquitetura de Sistemas Gerenciadores de Bases de Dados
+SAP0612 Arquitetura e Urbanismo Contemporâneos
+SAP0727 Arquitetura e Urbanismo Contemporâneos I
+SAP0728 Arquitetura e Urbanismo Contemporâneos II
+SAP0411 Arquitetura e Urbanismo I
+SAP0412 Arquitetura e Urbanismo II
+SAP0676 Arquitetura, Ética e Sociedade
+SEL0376 Arquiteturas Não Convencionais de Computadores
+SCC0295 Atividades Acadêmicas Científicas, de Extensão e Culturais I
+SCC0296 Atividades Acadêmicas Científicas, de Extensão e Culturais II
+1800105 Atividades Complementares em Engenharia Aeronáutica
+SMM0218 Atividades Complementares em Engenharia Automobilística I
+SMM0219 Atividades Complementares em Engenharia Automobilística II
+1800100 Atividades Complementares em Engenharia Elétrica I
+1800101 Atividades Complementares em Engenharia Elétrica II
+1800102 Atividades Complementares em Engenharia Elétrica III
+1800103 Atividades Complementares em Engenharia Elétrica IV
+1800104 Atividades Complementares em Engenharia Mecânica I
+1800108 Atividades Complementares em Engenharia Mecânica II
+1800111 Atividades Complementares em Engenharia Mecatrônica I
+1800112 Atividades Complementares em Engenharia Mecatrônica II
+1800113 Atividades Complementares em Engenharia Mecatrônica III
+1800114 Atividades Complementares em Engenharia Mecatrônica IV
+SEL0406 Automação
+SEP0605 Automação da Produção
+SMM0222 Automobilística Forense
+SHS0364 Avaliação de Impacto Ambiental: Casos para Estudo
+SEP0564 Avaliação de Projetos de Investimentos
+STT0623 Avaliação de Projetos de Transportes
+SHS0354 Avaliação de Viabilidade Ambiental
+SHS0352 Balanços de Massa e de Energia
+SCC0141 Bancos de Dados e Suas Aplicações
+SCC0240 Bases de Dados
+SCC0540 Bases de Dados
+SCC0640 Bases de Dados
+SEL0388 Bioengenharia Ocular I
+SEL0429 Bioengenharia Ocular II
+SHS0301 Biologia Geral e Aplicada
+SHS0377 Biologia Geral e Aplicada I
+SHS0378 Biologia Geral e Aplicada II
+SMM0307 Biomateriais
+SEL0348 Cálculo de Curto Circuito
+SHS0302 Caracterização Ambiental: Bacia Hidrográfica
+SHS0373 Caracterização Ambiental: Bacia Hidrográfica I
+SHS0374 Caracterização Ambiental: Bacia Hidrográfica II
+SEP0348 Certificações, Práticas e Jogos em Gestão da Cadeia de Valor
+SHS0176 Ciências do Ambiente para Engenharia Mecânica e Produção
+SHS0358 Cinética Aplicada e Cálculo de Reatores
+SEL0439 Circuitos Elétricos
+SEL0602 Circuitos Elétricos
+SEL0301 Circuitos Elétricos I
+SEL0302 Circuitos Elétricos II
+SEL0313 Circuitos Eletrônicos I
+SEL0609 Circuitos Eletrônicos I
+SEL0314 Circuitos Eletrônicos II
+SEL0613 Circuitos Eletrônicos II
+SEL0315 Circuitos Eletrônicos III
+SHS0306 Climatologia Aplicada à Engenharia Ambiental
+SET0182 Complementos de Mecânica de Estruturas Aeronáuticas
+STT0611 Complementos de Projeto Geométrico de Rodovias
+SET0600 Complementos de Resistência dos Materiais
+SMM0174 Comportamento Mecânico dos Materiais
+SMM0328 Comportamento Mecânico dos Materiais
+SCC0250 Computação Gráfica
+SCC0650 Computação Gráfica
+SEL0377 Computação Gráfica
+SEL0387 Computação Móvel
+SCC0207 Computadores e Sociedade I
+SCC0208 Computadores e Sociedade II
+SEL0619 Comunicação Digital
+SEL0346 Comunicação Digital I
+SEL0347 Comunicação Digital II
+SEL0366 Comunicações Ópticas
+SGS0610 Conceitos em Geotecnia
+SHS0333 Concepção e Projeto de Sistemas de Tratamento de Água
+SET0411 Concreto Protendido
+SGS0304 Condicionantes Geológico-geotécnicos em Estudos Ambientais
+SEM0552 Conformação dos Metais I
+SEM0553 Conformação dos Metais II
+SAP0649 Conforto Ambiental nas Edificações
+SAP0675 Conforto Ambiental no Espaço Urbano
+STT0609 Conservação de Rodovias
+SAP0409 Construção Civil I
+SAP0410 Construção Civil II
+SEP0584 Contabilidade para Computação
+SEP0561 Contabilidade, Custos Industriais e Orçamento
+SEL0367 Controle Adaptativo
+SEP0280 Controle da Qualidade de Processos de Fabricação
+SEL0633 Controle de Robôs Manipuladores
+SEL0326 Controle de Sistemas Lineares
+SEL0359 Controle Digital
+SEL0620 Controle Digital
+SEP0354 Controle Estatístico da Qualidade
+SEL0364 Controle Não Linear Aplicado
+SEL0382 Controle Robusto
+SEL0329 Conversão Eletromecânica de Energia
+SAA0348 Conversão Eletromecânica de Energia Eólica
+SEL0435 Conversores CC-CA
+SMM0334 Corrosão e Proteção Contra a Corrosão
+SMM0202 Corrosão Metálica
+SAP0309 Cultura, Ambiente e Desenvolvimento
+SAP0678 Desenho
+SAP0755 Desenho
+SEM0558 Desenho Assistido por Computador
+SAP0620 Desenho de Arquitetura
+SAP0737 Desenho de Arquitetura I
+SAP0738 Desenho de Arquitetura II
+SAP0135 Desenho I
+SAP0405 Desenho I
+SAP0406 Desenho II
+SAP0143 Desenho Industrial e Estética
+SAP0144 Desenho Técnico - E A
+SAP0145 Desenho Técnico - E E
+SEM0502 Desenho Técnico Mecânico I
+SEM0564 Desenho Técnico Mecânico I
+SEM0503 Desenho Técnico Mecânico II
+SEM0565 Desenho Técnico Mecânico II
+SAP0313 Desenho Técnico para Engenharia Ambiental
+SEM0544 Desenvolvimento de Produtos Mecatrônicos
+SET0625 Desenvolvimento de Softwares de Análise Estrutural para Engenharia
+SEP0704 Desenvolvimento em Liderança para alunos da EESC Jr.
+SAA0209 Desenvolvimento Pessoal I
+SAA0210 Desenvolvimento Pessoal II
+SEM0414 Dimensionamento de Elementos Mecânicos
+SEM0501 Dinâmica Aplicada às Máquinas
+SEM0172 Dinâmica das Máquinas
+SAA0121 Dinâmica de Vôo de Helicópteros
+SAA0183 Dinâmica de Vôo I
+SAA0184 Dinâmica de Vôo II
+SEM0317 Dinâmica e Controle de Sistemas Robóticos I
+SEM0504 Dinâmica Estrutural
+SEL0420 Distribuição de Energia Elétrica
+STT0621 Drenagem de Vias Terrestres
+SHS0379 Drenagem Urbana Sustentável e Controle de Enchentes
+SHS0385 Drenagem Urbana Sustentável e Controle de Enchentes
+SHS0314 Ecologia Geral e Aplicada
+SEP0586 Economia Aplicada ao Meio Ambiente
+SEP0568 Economia da Produção
+SEP0569 Economia da Produção I
+SEP0570 Economia da Produção II
+SHS0300 Ecossistemas Aquáticos, Terrestres e Interfaces
+SHS0369 Ecossistemas Aquáticos, Terrestres e Interfaces I
+SHS0370 Ecossistemas Aquáticos, Terrestres e Interfaces II
+SEL0437 Eficiência Energética
+SMM0220 Elementos Automotivos
+SET0620 Elementos de Acústica Ambiental
+SET0621 Elementos de Acústica Industrial
+SEM0540 Elementos de Automação
+SEM0241 Elementos de Máquinas I
+SEM0326 Elementos de Máquinas II
+SEM0327 Elementos de Máquinas III
+SEM0396 Elementos de Máquinas Térmicas e Processos Contínuos
+SEM0306 Elementos de Mecânica Fina
+SEL0350 Elementos de Projetos Elétricos em Sistemas de Distribuição de Energia Elétrica
+SEL0400 Eletricidade
+SEL0410 Eletricidade e Magnetismo
+SEL0403 Eletricidade I
+SEL0404 Eletricidade II
+SEL0309 Eletromagnetismo
+SEL0608 Eletromagnetismo
+SEL0411 Eletrônica
+SMM0166 Eletrônica Aplicada a Motores Ci
+SEL0401 Eletrônica de Potência
+SCC0209 Empreendedores em Informática
+SEP0531 Empreendedorismo
+SEM0561 Energias Renováveis
+SEM0391 Engenharia Auxiliada Por Computador ( Cae )
+SMM0563 Engenharia Cerâmica
+SEP0252 Engenharia de Fabricação Mecânica
+SMM0176 Engenharia de Fabricação Metalúrgica
+SEL0375 Engenharia de Software
+SEM0546 Engenharia de Software
+SMM0318 Engenharia de Superfícies
+STT0628 Engenharia de Tráfego e Simulação de Tráfego Rodoviário
+SEP0600 Engenharia do Ciclo de Vida
+SEP0602 Engenharia do Ciclo de Vida
+SMM0193 Engenharia e Ciência dos Materiais I
+SMM0194 Engenharia e Ciência dos Materiais II
+SGS0612 Ensaios de Mecânica dos Solos 1
+SGS0613 Ensaios de Mecânica dos Solos 2
+STT0612 Ensaios e Controle de Obras de Pavimentação - Solos
+STT0613 Ensaios e Controle de Obras em Pavimentação - Agregados e Asfaltos
+SGS0618 Ensaios em Mecânica das Rochas
+SMM0311 Ensaios Não Destrutivos
+SEP0493 Ergonomia
+SEP0492 Ergonomia Aplicada ao Projeto de Produtos Industriais
+SAA0347 Escoamentos Compressíveis e Aplicações
+SEL0355 Estabilidade de Sistemas Elétricos de Potência
+SAA0170 Estágio em Engenharia Aeronáutica
+1800090 Estágio em Engenharia Ambiental
+SEM0270 Estágio em Engenharia Mecânica
+SAP0701 Estágio Supervisionado
+SEL0425 Estágio Supervisionado
+SEL0625 Estágio Supervisionado
+SEM0398 Estágio Supervisionado
+SEP0622 Estágio Supervisionado
+SMM0324 Estágio Supervisionado
+1800078 Estágio Supervisionado em Engenharia Civil
+SEL0627 Estágio Supervisionado II
+SET0415 Estática 1
+SET0416 Estática 2
+SEM0500 Estática Aplicada às Máquinas
+SEM0555 Estatística Aplicada à Engenharia
+SAP0643 Estética I
+SAP0644 Estética II
+STT0406 Estradas I
+STT0407 Estradas II
+SET0618 Estrutura de Aço em Perfís Formados a Frio
+SET0409 Estruturas de Concreto Armado I
+SET0410 Estruturas de Concreto Armado II
+SET0605 Estruturas de Concreto C
+SET0607 Estruturas de Concreto D
+SCC0122 Estruturas de Dados
+SCC0223 Estruturas de dados I
+SCC0224 Estruturas de dados II
+SET0408 Estruturas de Fundações
+SET0406 Estruturas de Madeira
+SET0417 Estruturas Metálicas 1
+SET0418 Estruturas Metálicas 2
+SET0608 Estruturas Pré-moldadas de Concreto
+SAP0647 Estudos Sociais
+SEM0324 Fabricação de Precisão
+SEM0560 Fabricação Mecânica por Usinagem
+SMM0156 Fadiga e Fratura dos Materiais
+SEM0551 Fenômenos de Transporte
+SHS0619 Fenômenos de Transporte
+SHS0406 Fenômenos de Transporte 1
+SHS0407 Fenômenos de Transporte 2
+SHS0356 Fenômenos de Transporte I
+SHS0357 Fenômenos de Transporte II
+SHS0179 Fenômenos de Transporte para Engenharia de Produção
+SEP0501 Formação do Pensamento Administrativo
+SEP0703 Formação em Gestão Empresarial para alunos da EESC Jr
+SET0613 Formas e Cimbramentos de Madeira
+SGS0404 Fundações
+SEM0403 Fundamentos da Mecânica dos Fluidos
+SEL0417 Fundamentos de Controle
+SEL0611 Fundamentos de Controle
+SEP0566 Fundamentos de Economia
+STT0408 Fundamentos de Engenharia de Transportes
+SMM0178 Fundamentos de Ensaios Não Destrutivos
+SEP0271 Fundamentos de Fabricação Mecânica
+SEL0617 Fundamentos de Microeletrônica
+SEL0607 Fundamentos de Semicondutores
+SEP0283 Fundamentos dos Processos de Produção I
+SEP0284 Fundamentos dos Processos de Produção II
+SEM0360 Fundamentos Termodinâmicos
+SGS0405 Geologia de Engenharia 1
+SGS0406 Geologia de Engenharia 2
+SGS0301 Geologia e Solos
+SGS0329 Geologia e Solos I
+SGS0330 Geologia e Solos II
+STT0627 Geomática Aplicada
+STT0616 Geomática Aplicada I
+STT0614 Geomática Aplicada II
+STT0409 Geomática I
+STT0410 Geomática II
+SGS0306 Geossintéticos em Obras de Proteção e Recuperação Ambiental
+SGS0608 Geossintéticos em Proteção Ambiental
+SEL0363 Geração de Energia Elétrica
+SEP0171 Gerenciamento de Projetos
+SHS0324 Gestão Ambiental
+SHS0367 Gestão Ambiental I
+SHS0368 Gestão Ambiental II
+SHS0415 Gestão Ambiental na Empresa
+SHS0623 Gestão Ambiental para Engenheiros
+SEP0346 Gestão da Armazenagem
+SEP0140 Gestão da Mudança
+SEP0321 Gestão da Produção
+SEP0701 Gestão da Qualidade
+SEP0355 Gestão da Qualidade I
+SEP0356 Gestão da Qualidade II
+SEP0549 Gestão da Tecnologia da Informação
+SHS0381 Gestão de Áreas Protegidas
+SEP0545 Gestão de Pequenas Empresas
+SEP0174 Gestão de Programas e Projetos
+1800106 Gestão de Projetos Sociais para Atividades de Cultura e Extensão
+SHS0319 Gestão de Resíduos Sólidos
+SEP0327 Gestão de Serviços
+SEP0527 Gestão e Organização
+SEP0530 Gestão por Processos de Negócios
+1800115 Habilidades Sociais e Liderança
+SHS0409 Hidráulica dos Condutos Forçados
+SHS0410 Hidráulica dos Condutos Livres
+SHS0361 Hidráulica I
+SHS0362 Hidráulica II
+SHS0359 Hidrologia
+SHS0411 Hidrologia 1
+SHS0412 Hidrologia 2
+SCC0262 Hipermídia
+SCC0562 Hipermídia
+SAA0191 História da Aviação e Seu Desenvolvimento Tecnológico
+SAA0164 Homologação Aeronáutica
+SAP0126 Humanidades e Ciências Sociais
+SAP0679 Humanidades e Ciências Sociais
+SEL0434 Imagens Radiológicas Digitais
+SHS0307 Impactos e Adeqüação Ambiental
+SHS0375 Impactos e Adequação Ambiental 1
+SHS0376 Impactos e Adequação Ambiental 2
+SCC0200 Informação Profissional em Ciências da Computação
+SEL0600 Informação Profissional em Engenharia de Computação I
+SAA0163 Informações Técnicas em Manutenção Aeronáutica
+SAP0645 Informática na Arquitetura
+SAP0743 Informática na Arquitetura I
+SAP0744 Informática na Arquitetura II
+SAP0650 Iniciação à Pesquisa Científica
+1800109 Iniciação à Pesquisa Científica I
+1800110 Iniciação à Pesquisa Científica II
+SMM0216 Iniciação Científica em Automobilística I
+SMM0217 Iniciação Científica em Automobilística II
+SEL0440 Instalações Elétricas
+SEL0311 Instalações Elétricas I
+SEL0312 Instalações Elétricas II
+SHS0402 Instalações Hidráulicas e Sanitárias
+SHS0613 Instalações Prediais Hidráulicas e Sanitárias para Arquitetura
+SEM0539 Instrumentação e Sistemas de Medidas
+SEL0345 Instrumentação Eletrônica I
+SEL0352 Instrumentação Eletrônica II
+SAA0161 Instrumentação para Medidas Aerodinâmicas
+SHS0383 Instrumentos de Política Ambiental
+SCC0230 Inteligência Artificial
+SCC0530 Inteligência Artificial
+SCC0630 Inteligência Artificial
+SEL0362 Inteligência Artificial
+SCC0260 Interação Usuário-computador
+SCC0560 Interação Usuário-Computador
+SEM0320 Interfaces Eletromecânicas
+STT0601 Interseções Rodoviárias
+SAA0190 Introdução à Aerodinâmica de Helicópteros
+SAP0648 Introdução à Arquitetura e Urbanismo Modernos
+SCC0271 Introdução à Bioinformática
+SCC0120 Introdução à Ciência da Computação
+SCC0801 Introdução à Ciência da Computação II
+SCC0221 Introdução à Ciência de Computação I
+SCC0201 Introdução à Ciência de Computação II
+SCC0501 Introdução à Ciência de Computação II
+SMM0300 Introdução à Ciência e Engenharia dos Materiais
+SCC0206 Introdução à Compilação
+SCC0272 Introdução à Computação Bioinspirada
+1800314 Introdução à Engenharia Ambiental
+1800107 Introdução à Engenharia Civil
+STT0500 Introdução à Engenharia Civil
+SEP0100 Introdução à Engenharia de Produção
+SEL0395 Introdução à Engenharia de Reabilitação
+STT0625 Introdução à Engenharia de Transportes
+SEL0300 Introdução à Engenharia Elétrica
+SEM0394 Introdução à Engenharia Mecânica
+SEM0528 Ìntrodução à Engenharia Mecatrônica
+SAP0401 Introdução à Filosofia da Ciência
+SMM0224 Introdução à Fundição, Soldagem e Metalurgia do Pó
+SGS0602 Introdução à Geotecnia
+SAP0646 Introdução à História e Teoria da Arte e Linguagem
+SEL0396 Introdução à Instrumentação Eletrônica Biomédica
+SET0188 Introdução à Isostática
+SMM0339 Introdução à Mecânica Automobilística
+SAA0197 Introdução a Operações de Aeronaves
+SEL0415 Introdução à Organização de Computadores
+SCC0121 Introdução à Programação
+SCC0172 Introdução à Programação para Biologia Molecular
+SCC0124 Introdução à Programação para Engenharias
+SCC0270 Introdução à Redes Neurais
+SCC0570 Introdução a Redes Neurais
+SCC0670 Introdução a Redes Neurais
+SAA0207 Introdução à Segurança de Operações Aeroespaciais
+SCC0231 Introdução a Sistemas Inteligentes
+SCC0531 Introdução a Sistemas Inteligentes
+SCC0631 Introdução a Sistemas Inteligentes
+1800015 Introdução à T. G. I.
+SCC0505 Introdução à Teoria da Computação
+SEL0339 Introdução à Visão Computacional
+SCC0219 Introdução ao Desenvolvimento Web
+SMM0340 Introdução ao Design Automotivo
+SMM0342 Introdução ao Ensaio Mecânico dos Materiais
+SET0601 Introdução ao Método dos Elementos Finitos
+SEM0407 Introdução ao Projeto e a Manufatura
+SMM0343 Introdução ao Rendering Automotivo
+SEL0405 Introdução aos Sistemas Digitais I
+SAA0180 Introdução aos Sistemas Dinâmicos de Aeronaves
+SAA0208 Introdução aos Sistemas Espaciais
+SET0400 Isostática
+SCC0211 Laboratório de Algoritmos Avançados
+SEL0430 Laboratório de Automação
+SCC0241 Laboratório de Bases de Dados
+SCC0541 Laboratório de Bases de Dados
+SCC0641 Laboratório de Bases de Dados
+SEL0610 Laboratório de Circuitos Eletrônicos
+SEL0418 Laboratório de Circuitos Eletrônicos (ea)
+SEL0316 Laboratório de Circuitos Eletrônicos I
+SEL0317 Laboratório de Circuitos Eletrônicos II
+SEL0318 Laboratório de Circuitos Eletrônicos III
+SEL0431 Laboratório de Controle de Processos Industriais
+SEL0328 Laboratório de Controle de Sistemas
+SEL0330 Laboratório de Conversão Eletromecânica de Energia
+SEL0306 Laboratório de Dispositivos Semicondutores
+SEL0402 Laboratório de Eletrônica de Potência
+SEL0327 Laboratório de Fundamentos de Controle
+SEL0393 Laboratório de Instrumentação Eletrônica I
+SCC0220 Laboratório de Introdução à Ciência da Computação II
+SCC0222 Laboratório de Introdução à Ciência de Computação I
+SET0614 Laboratório de Madeiras e de Estruturas de Madeira
+SEL0423 Laboratório de Máquinas Elétricas
+SMM0196 Laboratório de Materiais Compostos
+SMM0309 Laboratório de Materiais Compostos
+SEL0441 Laboratório de Medidas e Circuitos Elétricos
+1800300 Laboratório de Projeto, Materiais e Manufatura
+1800301 Laboratório de Projeto, Materiais e Manufatura II
+1800315 Laboratório de Projeto, Materiais e Manufatura II
+SEL0634 Laboratório de Robôs Manipuladores
+SAA0345 Laboratório de Sistemas de Controle de Aeronaves
+SEL0606 Laboratório de Sistemas Digitais
+SEL0384 Laboratório de Sistemas Digitais I
+SEL0323 Laboratório de Sistemas Digitais II
+SEL0361 Laboratório de Telecomunicações
+SEM0523 Laboratórios de Engenharia de Projeto
+SAA0213 Layout de Fuselagem e Cabine I
+SAA0214 Layout de Fuselagem e Cabine II
+STT0177 Leituras Topográficas
+SHS0363 Licenciamento Ambiental: Casos para Estudo
+SAP0625 Linguagem da Arquitetura e da Cidade
+SAP0741 Linguagem da Arquitetura e da Cidade I
+SAP0742 Linguagem da Arquitetura e da Cidade II
+SEL0632 Linguagens de Descrição de Hardware
+SCC0217 Linguagens de Programação e Compiladores
+SAP0621 Linguagens Visuais
+SAP0739 Linguagens Visuais I
+SAP0740 Linguagens Visuais II
+SEL0365 Linhas de Transmissão de Energia Elétrica
+SEP0305 Logística e Gestão da Cadeia de Suprimentos
+STT0610 Logística e Transportes
+SEP0303 Logística Integrada
+STT0619 Logística Reversa
+SMM0215 Lubrificação e Lubrificantes Automotivos
+SEM0350 Manufatura Assistida por Computador
+SMM0221 Manutenção Automotiva
+SAA0114 Manutenção de Aeronaves I
+SAA0160 Manutenção de Aeronaves II
+SEL0422 Máquinas Elétricas
+SHS0103 Máquinas Hidráulicas
+SEM0349 Máquinas para Elevação e Movimentação de Materiais
+SMM0319 Materiais Avançados
+SMM0305 Materiais Cerâmicos I
+SMM0310 Materiais Cerâmicos II
+SMM0308 Materiais Compostos I
+SET0300 Materiais Compostos I I: Laminados
+SMM0181 Materiais de Construção Aeronáutica I
+SMM0182 Materiais de Construção Aeronáutica II
+SAP0407 Materiais de Construção I
+SAP0408 Materiais de Construção II
+SEL0601 Materiais Elétricos
+SEL0426 Materiais Elétricos e Ferromagnéticos
+SMM0301 Materiais Metálicos
+SMM0203 Materiais para Engenharia
+SMM0303 Materiais Poliméricos I
+SMM0304 Materiais Poliméricos II
+SGS0403 Mecânica das Rochas
+SMM0157 Mecânica de Autoveículos I
+SMM0171 Mecânica de Autoveículos II
+SET0180 Mecânica de Estruturas Aeronáuticas I
+SET0181 Mecânica de Estruturas Aeronáuticas II
+SHS0173 Mecânica dos Fluidos
+SET0623 Mecânica dos Sólidos
+SET0183 Mecânica dos Sólidos I
+SET0190 Mecânica dos Sólidos I
+SET0184 Mecânica dos Sólidos II
+SET0191 Mecânica dos Sólidos II
+SET0185 Mecânica dos Sólidos III
+SGS0407 Mecânica dos Solos 1
+SGS0408 Mecânica dos Solos 2
+SGS0130 Mecânica dos Solos e Fundações
+SGS0615 Mecânica dos Solos Não Saturados
+SEM0104 Mecanismos
+SEL0452 Medidas e Circuitos Elétricos
+SEL0443 Medidas Elétricas e Eletrônicas I
+SEL0305 Medidas Elétricas e Eletrônicas II
+SEM0142 Medidas Mecânicas
+SMM0103 Metalurgia Física
+SMM0326 Metalurgia Física
+SGS0601 Método dos Elementos Finitos em Geotecnia
+1800082 Metodologia de Pesquisa e Introdução ao Trabalho de Conclusão de Curso
+SCC0213 Metodologia de Pesquisa em Computação
+SGS0305 Métodos de Investigação Geológico-geotécnica em Estudos Ambientais
+SEL0424 Métodos de Otimização em Sistemas
+SAA0198 Métodos Experimentais em Aerodinâmica
+SGS0616 Métodos Numéricos para Análises de Estabilidade de Talude
+SGS0614 Métodos Numéricos para Análises de Problemas Envolvendo Percolação e Consolidação
+SGS0611 Métodos Numéricos para Análises de Tensões em Geotecnia
+SEP0700 Métodos para Análise e Solução de Problemas em Engenharia de Produção
+SEL0369 Micro-ondas
+SHS0312 Microbiologia e Bioquímica Aplicadas
+SEL0614 Microprocessadores e Aplicações
+SEL0451 Microssistemas de Rádio-frequência (RF) para Dispositivos sem Fio
+SEL0636 Microssistemas de rádiofrequência (RF) para dispositivos sem fios
+SCC0244 Mineração a partir de Grandes Bases de Dados
+SCC0173 Mineração de Dados Biológicos
+SHS0366 Modelação Matemática de Processos de Interesse para a Engenharia Ambiental
+SHS0355 Modelação Matemática em Processos de Tratamento de Águas de Abastecimento e Residuárias
+SCC0216 Modelagem Computacional em Grafos
+SEP0324 Modelagem da Organização
+SEP0301 Modelagem da Produção
+SEM0533 Modelagem e Simulação de Sistemas Dinâmicos I
+SEM0535 Modelagem e Simulação de Sistemas Dinâmicos II
+SEM0397 Modelagem e Simulação de Sistemas Térmicos
+SEM0232 Modelos Dinâmicos
+SHS0365 Monitoramento Ambiental: Casos para Estudo
+SCC0261 Multimídia
+SCC0561 Multimídia
+SCC0661 Multimídia e Hipermídia
+SEM0406 Novas Tecnologias de Manufatura
+1800043 O Engenheiro Como Agente Ético
+1800117 Oficina de Inovação
+SEL0310 Ondas Eletromagnéticas
+SEL0612 Ondas Eletromagnéticas
+SEL0357 Operação de Sistemas Elétricos de Potência
+SEL0419 Operação Energética e Expansão dos Sistemas Elétricos
+SHS0346 Operações Unitárias e Processos na Engenharia Ambiental
+SEP0603 Organização da Manufatura e Competitividade
+SCC0215 Organização de Arquivos
+SEM0543 Organização de Dados em Computadores
+SEP0502 Organização do Trabalho na Engenharia de Produção
+SCC0266 Padrões de Projeto em Desenvolvimento Web
+SCC0666 Padrões de Projeto em Desenvolvimento WEB
+SAP0651 Paisagismo
+SAP0745 Paisagismo I
+SAP0746 Paisagismo II
+SAA0337 Palestras e Seminários em Engenharia Aeronáutica
+SAA0338 Palestras e Seminários em Iniciação Científica em Engenharia Aeronáutica
+SAA0344 Palestras e Seminários em Segurança e Ensaios em Vôo
+SEP0401 Pesquisa Operacional I
+SEP0405 Pesquisa Operacional I
+SEP0402 Pesquisa Operacional II
+SEP0406 Pesquisa Operacional II
+SEP0441 Pesquisa Operacional III
+STT0626 Pesquisa Operacional para Sistemas Logísticos e Engenharia de Transportes
+SAP0310 Planejamento Ambiental e Urbanismo
+STT0405 Planejamento e Análise de Sistemas de Transportes
+SEP0302 Planejamento e Controle da Produção
+SEP0325 Planejamento e Controle da Produção I
+SEP0326 Planejamento e Controle da Produção II
+SEP0328 Planejamento e Controle da Produção III
+SEP0221 Planejamento e Organização da Manufatura
+SAP0623 Plástica
+SAP0729 Plástica I
+SAP0730 Plástica II
+SHS0350 Poluição Ambiental I
+SHS0351 Poluição Ambiental II
+SET0412 Pontes de Concreto
+SET0617 Pontes de Madeira
+SET0622 Pontes Metálicas
+SEM0417 Prática de Engenharia de Projeto
+SEP0172 Prática e Gerenciamento de Projetos
+SAA0165 Práticas de Manutenção em Aeronaves
+SEP0275 Práticas em Processos de Fabricação Mecânica
+SEP0285 Práticas em Processos de Produção
+SET0171 Princípios da Arquitetura com Aço
+SEL0353 Princípios de Alta Tensão e Coodernação de Isolação
+SMM0177 Princípios de Análise de Falhas em Componentes
+SMM0330 Princípios de Análise de Falhas em Componentes
+SAA0167 Princípios de Aviônica e Navegação
+SEL0360 Princípios de Comunicação
+SEL0616 Princípios de Comunicação
+SEP0587 Princípios de Economia
+SEL0203 Princípios de Eletrônica
+SMM0211 Princípios de Ensaio em Vôo
+SEM0388 Princípios de Metrologia Industrial
+SEM0301 Princípios de Tribologia
+SEL0397 Princípios Físicos de Formação de Imagens Médicas
+SEM0529 Problemas de Engenharia Mecatrônica I
+SEM0530 Problemas de Engenharia Mecatrônica II
+SEM0531 Problemas de Engenharia Mecatrônica III
+SEM0532 Problemas de Engenharia Mecatrônica IV
+SEM0537 Problemas de Engenharia Mecatrônica V
+SEL0631 Processadores Digitais de Sinais e Aplicações
+SCC0245 Processamento Analítico de Dados
+SCC0251 Processamento de Imagens
+SCC0651 Processamento de Imagens
+SCC0633 Processamento de Linguagem Natural
+SEM0411 Processamento de Materiais I I I: Injeção e Sopramento
+SEP0279 Processamento de Materiais I I: Usinagem dos Metais
+SEM0412 Processamento de Materiais I V: Conformação
+SMM0315 Processamento de Materiais I X: Polímeros
+SMM0314 Processamento de Materiais V I I I: Soldagem
+SET0301 Processamento de Materiais V I I: Laminados
+SEM0413 Processamento de Materiais V: Usinagem de Não Metálicos
+SMM0323 Processamento de Materiais X I : Reciclagem
+SMM0316 Processamento de Materiais X: Cerâmicas
+SEM0554 Processamento de Plástico
+SEL0449 Processamento Digital de Imagens Médicas
+SEL0343 Processamento Digital de Sinais
+SEL0615 Processamento Digital de Sinais
+SEM0415 Processamento dos Materiais V I: Nanofabricação e Processos de Alta Energia
+SMM0302 Processamentos de Materiais I: Solidificação e Fundição
+SEP0151 Processo de Desenvolvimento do Produto
+SEP0152 Processo de Desenvolvimento do Produto
+SEP0546 Processo Estratégico
+SEP0277 Processos de Conformação e Não Convencionais
+SEM0534 Processos de Fabricação Mecânica
+SEM0343 Processos de Usinagem
+SEP0282 Processos para Indústria Aeronáutica
+SCC0204 Programação Orientada a Objetos
+SCC0504 Programação Orientada a Objetos
+SCC0604 Programação Orientada a Objetos
+SEM0303 Projeto Assistido por Computador
+SEP0201 Projeto da Fábrica
+SEP0202 Projeto da Fábrica
+SAA0200 Projeto de Aeronaves I
+SMM0111 Projeto de Aeronaves I
+SAA0201 Projeto de Aeronaves II
+SCC0214 Projeto de Algoritmos
+SEL0380 Projeto de Amplificadores de Potência para Audio I
+SAA0336 Projeto de Elementos Estruturais de Aeronaves I
+SAA0205 Projeto de Elementos Estruturais de Aeronaves II
+SEP0139 Projeto de Extensão Universitária
+SEL0442 Projeto de Formatura I
+SEL0624 Projeto de Formatura I
+SEL0444 Projeto de Formatura II
+SEL0626 Projeto de Formatura II
+SCC0293 Projeto de Graduação I
+SCC0294 Projeto de Graduação II
+SEM0524 Projeto de Máquinas I
+SEM0525 Projeto de Máquinas II
+SEM0527 Projeto de Máquinas IV
+SMM0312 Projeto de Materiais Metálicos
+SAA0192 Projeto de Sistemas de Propulsão
+SHS0336 Projeto de Sistemas de Tratamento de Águas Residuárias
+SEL0373 Projeto de Sistemas Digitais
+SEM0541 Projeto de Sistemas Mecatrônicos I
+SEM0542 Projeto de Sistemas Mecatrônicos II
+SEP0451 Projeto do Trabalho e Ergonomia
+SAA0206 Projeto e Análise de Reparos em Estruturas Aeronáuticas
+SGS0617 Projeto e Construção de Túneis
+SAA0189 Projeto e Desempenho de Hélices
+SEP0304 Projeto e Gestão Logística da Cadeia de Suprimentos
+SEP0251 Projeto e Operação de Sistemas de Produção
+SEP0254 Projeto e Operação de Sistemas de Produção
+SMM0345 Projeto e Tratamento Térmico dos Metais
+SMM0561 Projeto e Tratamento Térmico dos Metais
+SAP0615 Projeto I
+SAP0731 Projeto I-A
+SAP0732 Projeto I-B
+SAP0616 Projeto II
+SAP0751 Projeto II-A
+SAP0752 Projeto II-B
+SAP0617 Projeto III
+SAP0733 Projeto III-A
+SAP0734 Projeto III-B
+SEP0625 Projeto Integrado
+1800116 Projeto Integrador em Máquinas e Eletrônicas de Potência
+SAP0618 Projeto IV
+SAP0735 Projeto IV-A
+SAP0736 Projeto IV-B
+SEM0347 Projeto Mecânico
+SEM0563 Projeto Mecânico para Engenharia de Materiais e Manufatura
+SCC0291 Projeto Supervisionado I
+SCC0292 Projeto Supervisionado II
+SCC0298 Projeto Supervisionado ou de Graduação I
+SCC0299 Projeto Supervisionado ou de Graduação II
+SEM0418 Projeto Visando Fabricação e Montagem - D F M A
+SCC0814 Projetos de Algoritmos
+SEL0618 Projetos de Circuitos Integrados Analógicos
+SEL0621 Projetos de Circuitos Integrados Digitais I
+SEL0622 Projetos de Circuitos Integrados Digitais II
+SEP0567 Projetos de Investimento
+SEP0571 Projetos de Investimento
+SEL0438 Projetos em Engenharia Elétrica
+SEL0428 Propriedades Elétricas e Ópticas de Materiais
+SAA0117 Propulsão I
+SEL0354 Proteção em Sistemas de Energia Elétrica
+SHS0601 Qualidade da Água
+SEL0409 Qualidade da Energia Elétrica
+SGS0303 Recuperação de Áreas Degradadas: Investigação, Análise e Gestão
+SCC0246 Recuperação de Dados por Conteúdo
+SHS0348 Recursos Energéticos e Desenvolvimento
+SHS0360 Recursos Hídricos
+SEL0378 Redes de Computadores
+SEL0432 Redes de Comunicação Industrial
+SEL0370 Redes Fixas de Comunicação
+SEL0386 Redes Móveis de Comunicação
+SGS0605 Reforço de Solos
+SMM0306 Reologia
+SET0186 Resistência dos Materiais
+SET0413 Resistência dos Materiais 1
+SET0414 Resistência dos Materiais 2
+SCC0273 Robôs Móveis Inteligentes
+SEM0556 Robótica Móvel
+SHS0413 Saneamento 1
+SHS0414 Saneamento 2
+SHS0614 Saneamento e Meio Ambiente Para Arquitetura
+SMM0212 Segurança de Vôo
+SMM0223 Segurança Veicular
+SMM0333 Seleção de Materiais para Projeto Mecânico
+SEL0450 Semicondutores
+SCC0238 Seminários Avançados de Inteligência Artificial I
+SCC0239 Seminários Avançados de Inteligência Artificial II
+SCC0278 Seminários Avançados de Redes Neurais I
+SCC0279 Seminários Avançados de Redes Neurais II
+SCC0248 Seminários Avançados em Banco de Dados I
+SCC0249 Seminários Avançados em Banco de Dados II
+SCC0258 Seminários Avançados em Computação Visual I
+SCC0259 Seminários Avançados em Computação Visual II
+SCC0268 Seminários Avançados em Sistemas Hipermídia e Multimídia I
+SCC0269 Seminários Avançados em Sistemas Hipermídia e Multimídia II
+1800021 Seminários de Arquitetura Contemporânea I
+1800031 Seminários de Arquitetura Contemporânea III
+1800041 Seminários de Arquitetura Contemporânea III A
+1800062 Seminários de Arquitetura Contemporânea IV C
+1800076 Seminários de Arquitetura Contemporânea IX B
+1800077 Seminários de Arquitetura Contemporânea IX C
+1800063 Seminários de Arquitetura Contemporânea V A
+1800064 Seminários de Arquitetura Contemporânea V B
+1800065 Seminários de Arquitetura Contemporânea V C
+1800067 Seminários de Arquitetura Contemporânea VI B
+1800069 Seminários de Arquitetura Contemporânea VII A
+1800074 Seminários de Arquitetura Contemporânea VIII C
+SCC0227 Seminários em Computação I
+SCC0228 Seminários em Computação II
+SCC0229 Seminários em Computação III
+SEP0135 Seminários em Engenharia de Produção I
+SEP0136 Seminários em Engenharia de Produção II
+SEL0385 Serviços de Telecomunicações e Redes Faixa Larga
+SEL0623 Serviços de Telecomunicações e Redes Faixa Larga
+SEP0404 Simulação da Produção
+SEM0372 Simulação de Sistemas Discretos
+SEL0381 Simulação Numérica de Sistemas Dinâmicos
+SEL0604 Sinais e Sistemas
+SEL0383 Sinais e Sistemas em Engenharia Elétrica
+SEP0357 Sistema da Qualidade e Meio Ambiente
+SHS0416 Sistema de Gestão Ambiental
+SGS0328 Sistema de Informações Geográficas Aplicado à Engenharia Ambiental
+SHS0408 Sistema e Adequação Ambiental
+SAA0187 Sistemas Aeronáuticos de Acionamento
+SHS0323 Sistemas de Abastecimento e de Tratamento de Água
+SEP0505 Sistemas de Apoio à Decisão
+SEP0506 Sistemas de Apoio à Decisão
+SHS0384 Sistemas de Avaliação de Impacto e Licenciamento Ambiental
+SEL0371 Sistemas de Comunicação
+SEM0169 Sistemas de Controle
+SAA0168 Sistemas de Controle de Aeronaves I
+SAA0169 Sistemas de Controle de Aeronaves II
+SEM0536 Sistemas de Controle I
+SEM0538 Sistemas de Controle II
+SEM0322 Sistemas de Controle Microprocessados
+SEL0416 Sistemas de Energia
+SHS0349 Sistemas de Esgotamento Sanitário e de Tratamento de Águas Residuárias
+SEP0702 Sistemas de Gestão Integrados
+SEP0504 Sistemas de Informação
+SEP0507 Sistemas de Informação
+STT0620 Sistemas de Informações Geográficas Aplicados à Engenharia de Transportes
+SHS0180 Sistemas de Transporte de Fluidos
+SEL0414 Sistemas Digitais
+SEL0628 Sistemas Digitais
+SEM0566 Sistemas e Métodos de Controle de Processos
+SET0403 Sistemas Estruturais
+SET0187 Sistemas Estruturais e Construtivos em Madeira
+SET0195 Sistemas Estruturais em Aço e em Madeira II-B
+SET0194 Sistemas Estruturais em Concreto I-A
+SET0176 Sistemas Estruturais I
+SET0192 Sistemas Estruturais I-A
+SET0193 Sistemas Estruturais I-B
+SET0177 Sistemas Estruturais II
+SEM0251 Sistemas Frigoríficos
+SEL0421 Sistemas Inteligentes
+SCC0265 Sistemas Interativos Web
+SCC0565 Sistemas Interativos WEB
+SEM0545 Sistemas Microeletromecânicos
+SEM0250 Sistemas Térmicos de Potência
+1800092 Sistematizacão de Atividades em Engenharia Ambiental
+1800312 Sistematização de Atividades em Engenharia Ambiental
+SMM0204 Suspensões Veiculares
+SHS0382 Sustentabilidade e Gestão Ambiental
+SEP0627 Sustentabilidade na Engenharia de Produção
+1800313 Sustentabilidade, Inovação e Empreendedorismo I
+SEL0398 Técnicas de Avaliação de Qualidade de Imagens Médicas
+SCC0264 Técnicas de Programação para Middleware
+SCC0263 Técnicas de Programação para Web
+SCC0563 Técnicas de Programação para Web
+SGS0302 Técnicas de Representação em Engenharia Ambiental
+SGS0609 Técnicas para Instalação e Substituição Subterrânea de Dutos
+SMM0341 Tecnologia Aplicada na Competição Automotiva
+SAP0652 Tecnologia das Construções I
+SAP0747 Tecnologia das Construções I-A
+SAP0748 Tecnologia das Construções I-B
+SAP0653 Tecnologia das Construções II
+SAP0749 Tecnologia das Construções II-A
+SAP0750 Tecnologia das Construções II-B
+SEL0412 Tecnologia Digital
+SET0628 Tecnologia do Concreto Estrutural
+SMM0104 Tecnologia e Metalurgia da Soldagem
+SEL0413 Telecomunicações
+SEL0372 Televisão
+SET0615 Telhados de Madeira
+SCC0605 Teoria da Computação e Compiladores
+SCC0205 Teoria da Computação e Linguagens Formais
+SET0140 Teoria das Estruturas Aplicada aos Aviões
+SAP0611 Teoria e História da Arquitetura e do Urbanismo Modernos
+SAP0753 Teoria e História da Arquitetura e do Urbanismo Modernos I
+SAP0754 Teoria e História da Arquitetura e do Urbanismo Modernos II
+SAP0610 Teoria e História da Arquitetura e Urbanismo no Brasil
+SAP0725 Teoria e História da Arquitetura e Urbanismo no Brasil I
+SAP0726 Teoria e História da Arquitetura e Urbanismo no Brasil II
+SEM0522 Teoria e Metodologia do Projeto
+SHS0344 Termodinâmica
+SEM0421 Termodinâmica Aplicada à Engenharia Química
+SMM0562 Termodinâmica dos Materiais
+SEM0233 Termodinâmica I
+SEM0345 Termodinâmica II
+SMM0313 Termodinâmica Metalúrgica
+SEM0548 Termodinâmica para Engenharia Aeronáutica
+SCC0232 Tópicos Avançados em Inteligência Artificial
+SCC0532 Tópicos Avançados em Inteligência Artificial
+SCC0632 Tópicos Avançados em Inteligência Artificial
+SET0624 Tópicos Complementares de Projeto em Estruturas Metálicas
+SHS0615 Tópicos de Obras Hidráulicas
+SEM0521 Tópicos em Engenharia de Projeto
+SAA0162 Tópicos em Tratamento Numérico dos Escoamentos Aerodinâmicos
+SCC0242 Tópicos Especiais em Banco de Dados
+SCC0542 Tópicos Especiais em Banco de Dados
+SCC0253 Tópicos Especiais em Computação Gráfica I
+SEL0338 Tópicos Especiais em Sistemas Digitais
+1800083 Trabalho de Conclusão de Curso
+SAA0346 Trabalho de Conclusão de Curso
+SMM0325 Trabalho de Conclusão de Curso
+1800080 Trabalho de Conclusão de Curso I
+1800093 Trabalho de Conclusão de Curso I
+SEM0399 Trabalho de Conclusão de Curso I
+SMM0322 Trabalho de Conclusão de Curso I
+1800081 Trabalho de Conclusão de Curso II
+1800094 Trabalho de Conclusão de Curso II
+SEM0404 Trabalho de Conclusão de Curso II
+1800091 Trabalho de Graduação
+1800016 Trabalho de Graduação Integrado I
+1800017 Trabalho de Graduação Integrado II
+SEL0358 Transdutores
+SHS0181 Transferência de Calor
+SEM0550 Transferência de Calor e Massa
+STT0618 Transporte Aéreo
+STT0605 Transporte Ferroviário
+STT0604 Transporte Público Urbano
+SHS0321 Tratamento da Poluição do Ar
+SHS0603 Tratamento de Águas Residuárias
+SHS0170 Tratamento de Resíduos Sólidos Urbanos
+SMM0327 Tratamento Térmico dos Metais
+SMM0185 Tratamentos Térmicos dos Metais
+SEP0272 Usinagem dos Metais
+1800024 Viagens Técnicas de Arquitetura I A
+1800025 Viagens Técnicas de Arquitetura I B
+1800026 Viagens Técnicas de Arquitetura I C
+1800019 Viagens Técnicas de Arquitetura II
+1800027 Viagens Técnicas de Arquitetura II A
+1800028 Viagens Técnicas de Arquitetura II B
+1800029 Viagens Técnicas de Arquitetura II C
+1800020 Viagens Técnicas de Arquitetura III
+SEL0635 Visão Computacional em Robótica
+SEP0133 Visitas Técnicas em Engenharia de Produção I
+SEP0134 Visitas Técnicas em Engenharia de Produção II
+SCC0252 Visualização Computacional
+SCC0652 Visualização Computacional
+FCI0210 Acústica Física
+FCI0311 Arquitetura de Computadores I
+FCM0705 Arquitetura de Computadores II
+FCI0127 Astronomia e Astrofísica
+FCI0139 Biofísica
+FCI0760 Biologia Molecular Computacional
+FCI0730 Biologia Molecular e Celular I
+FCI0710 Biologia Molecular e Celular II
+FCI0750 Biologia Molecular Estrutural
+FCI0780 Biomateriais e Biossensores
+FCM0611 Desenho Óptico
+FCI0230 Dinâmica Não Linear
+FCM0632 Dispositivos Ópticos
+FCI0752 Eletromagnetismo
+FCM0114 Eletromagnetismo I
+FCM0117 Eletromagnetismo II
+FCI0761 Empreendedorismo
+FCM0622 Espectroscopia Óptica
+FCM0121 Estado Sólido I
+FCI0800 Estágio em Empresa
+FFI0800 Estágio em Empresa
+FCM0250 Estágio em Empresa I
+FCM0251 Estágio em Empresa II
+FCI0794 Estágio em Empresa ou Laboratório I
+FCI0798 Estágio em Empresa ou Laboratório II
+FCI0797 Experimentação em Sistemas Biológicos
+FCI0792 Filogenia e Evolução
+FCM0208 Física
+FCM0410 Física A para Engenharia Ambiental
+FCM0412 Física B para Engenharia Ambiental
+FCM0200 Física Básica I
+FCI0319 Física Estatística
+FFI0405 Física Geral I
+FFI0406 Física Geral II
+FCM0221 Física Geral para Químicos
+FCM0101 Física I
+FCM0501 Física I
+FCM0102 Física II
+FCM0502 Física II
+FCI0105 Física III
+FFI0335 Física III
+FCI0108 Física IV
+FFI0338 Física IV
+FCI0112 Física Matemática I
+FCI0115 Física Matemática II
+FCI0775 Física Moderna
+FCM0150 Física Moderna I
+FCM0151 Física Moderna II
+FCI0124 Física Nuclear
+FCI0762 Genética Moderna
+FCM0417 Grupos e Álgebras de Lie e Teoria de Representação
+FCM0415 Informação Quântica
+7600001 Inovação e Empreendedorismo
+FCM0170 Introdução à Econofísica
+FCI0109 Introdução à Eletrônica
+FCI0339 Introdução à Espectroscopia
+FCI0201 Introdução à Física Computacional
+FCI0265 Introdução à Física de Partículas e Campos
+FCI0305 Introdução à Física Matemática
+FCI0128 Introdução à História da Física I
+FCI0129 Introdução à História da Física II
+FCI0275 Introdução à Relatividade Geral
+FCI0255 Introdução à Teoria de Grupos
+FCI0152 Laboratório Avançado de Física I
+FCM0153 Laboratório Avançado de Física II
+FCI0399 Laboratório Avançado para Física Computacional
+FCM0411 Laboratório de Física A para Engenharia Ambiental
+FCM0413 Laboratório de Física B para Engenharia Ambiental
+FFI0180 Laboratório de Física Geral I
+FFI0181 Laboratório de Física Geral II
+FCM0184 Laboratório de Física Geral III
+FCM0185 Laboratório de Física Geral IV
+FCM0222 Laboratório de Física Geral para Químicos
+FCM0103 Laboratório de Física I
+FCM0104 Laboratório de Física II
+FCI0106 Laboratório de Física III
+FCM0110 Laboratório de Física IV
+FCM0623 Lasers e Aplicações
+FCI0107 Mecânica Clássica I
+FCI0111 Mecânica Clássica II
+FCI0118 Mecânica Clássica III
+FCI0773 Mecânica Quântica
+FCI0119 Mecânica Quântica I
+FCI0122 Mecânica Quântica II
+FCI0306 Métodos de Física Matemática
+FCI0793 Métodos de Imagem por Ressonância Magnética
+FCI0763 Métodos em Química Medicinal
+FCI0751 Microbiologia
+FCI0740 Microbiologia e Biotecnologia Industrial
+FCI0396 Microprocessadores I
+FCI0397 Microprocessadores II
+FCI0776 Modelagem e Engenharia de Proteínas
+FCM0703 Modelagem Matemático-computacional
+FCM0419 Noções Básicas de Fabricação Mecânica
+FCM0621 Óptica Física
+FCI0711 Panorama da Biotecnologia Contemporânea
+FCI0328 Panorama da Física Contemporânea
+FCI0772 Planejamento de Moléculas Bioativas
+FCM0631 Princípios de Comunicações Ópticas
+FCM0319 Problemas Especiais de Física I
+FCM0323 Problemas Especiais de Física II
+FCM0708 Processamento de Imagens e Visão
+FCI0170 Processamento de Sinais
+FCM0702 Programação Orientada ao Objeto
+FCM0709 Programação para Alto Desempenho
+FCM0710 Programação Voltada à Internet
+FFI0425 Psicologia da Educação
+FCM0707 Rede de Computadores
+FCI0270 Relatividade Restrita
+FCI0796 Ressonância Magnética Nuclear Aplicada ao Estudo de Biomoléculas
+FCI0250 Simulações de Sistemas de Muitos Corpos
+FCI0240 Sistemas Complexos
+FCM0706 Sistemas Operacionais
+FCM0612 Técnicas de Fabricação Óptica
+FCM0148 Técnicas Experimentais
+FCM0704 Tecnologia de Microcomputadores
+FCI0307 Termodinâmica
+FCI0245 Tópicos em Física Computacional
+FCI0163 Tópicos em Física Teórica I
+FCI0164 Tópicos em Física Teórica II
+FCI0260 Tópicos em Nanociência
+FFI0260 Tópicos em Nanociência
+FCI0132 Vibrações e Ondas
+7500002 Acompanhamento Profissional e Pessoal
+SQF0323 Análise de Compostos Orgânicos
+SQM0415 Análise Instrumental I
+SQM0418 Análise Instrumental II
+SQM0421 Análise Instrumental III
+SQM0429 Análise Sensorial
+SQM0411 Análises Quantitativas: Prática
+SQM0410 Análises Quantitativas: Teoria
+SQM0414 Bioquímica I
+SQM0423 Bioquímica I
+SQM0416 Bioquímica II
+SQM0424 Bioquímica II
+SQM0436 Boas Práticas de Laboratórios
+SQM0442 Ciclos Biogeoquímicos
+SQF0340 Ciência e Tecnologia de Polímeros
+SQF0336 Ciências dos Materiais
+SQF0331 Cinética Química: Teoria e Prática
+SQF0320 Comunicação e Expressão em Linguagem Científica I
+SQF0321 Comunicação e Expressão em Linguagem Científica II
+SQF0338 Corrosão e Eletrodeposição
+SQM0409 Cristalografia
+7500016 Estágio de Vivência em Laboratório de Pesquisa do Exterior
+7500007 Estágio em Indústria
+7500015 Estágio em Indústria II
+SQF0334 Fermentação na Indústria de Alimentos
+SQM0434 Ferramentas da Qualidade
+SQF0324 Físico-química I
+SQF0329 Físico-química II
+SQF0333 Físico-Química: Teoria e Prática
+SQM0461 Fundamentos de Estrutura Atômica Molecular
+SQM0406 Fundamentos de Química Estrutural
+SQM0472 Fundamentos de Química Inorgânica
+SQM0466 Fundamentos de Química para Física
+7500005 História da Química
+SQM0464 Introdução à Biomateriais
+SQF0122 Introdução à Fotoquimica
+SQM0432 Introdução à Gestão de Qualidade em Química
+SQF0118 Introdução à Polimeros
+SQF0318 Introdução à Química
+SQF0375 Introdução aos Processos Químicos
+SQM0425 Isolamento e Purificação de Biomoléculas
+SQM0417 Laboratório de Bioquímica
+SQF0330 Laboratório de Físico-química
+SQF0343 Laboratório de Operações Unitárias
+SQM0439 Laboratório de Química Ambiental
+SQM0408 Laboratório de Química Analítica Qualitativa
+SQF0319 Laboratório de Química Geral
+SQM0107 Laboratório de Química Geral e Tecnológica
+SQM0419 Laboratório de Química Inorgânica
+SQM0457 Laboratório de Química Inorgânica para Engenharia de Materiais
+SQF0326 Laboratório de Química Orgânica I
+SQF0328 Laboratório de Química Orgânica II
+SQM0469 Laboratório de Química para Engenharia Ambiental I
+SQM0471 Laboratório de Química para Engenharia Ambiental II
+SQM0465 Laboratório de Química para Física
+SQF0374 Laboratório Geral de Química Orgânica
+7500004 Matemática Aplicada à Química
+7500008 Materiais Cerâmicos e Vítreos
+SQF0335 Microbiologia e Bioquímica Industrial
+7500006 Monografia
+7500003 Noções de Estatística Aplicada à Química
+SQF0342 Operações Unitárias I
+SQF0344 Operações Unitárias II
+SQM0438 Poluentes Químicos e Ecotoxicologia
+SQF0341 Processos Industriais Inorgânicos e Orgânicos
+SQM0444 Química Ambiental da Água
+SQM0407 Química Analítica Qualitativa
+SQM0477 Química Atmosférica
+SQM0427 Química de Alimentos I
+SQM0428 Química de Alimentos II
+SQM0431 Química de Alimentos III
+SQM0474 Química de Coordenação I
+SQM0475 Química de Coordenação II
+SQF0339 Química de Macromoléculas
+SQF0337 Química do Estado Sólido
+SQM0473 Química dos Elementos Representativos
+SQM0467 Química dos Materiais para Física
+SQM0405 Química Geral e Experimental
+SQM0113 Quimica Geral e Tecnológica I
+SQM0114 Quimica Geral e Tecnológica II
+SQF0373 Química Geral para CFBio
+SQM0305 Química Inorgânica II
+SQM0413 Química Inorgânica II
+SQM0456 Química Inorgânica para Engenharia de Materiais
+SQF0316 Química Orgânica
+SQF0322 Química Orgânica I
+SQF0325 Química Orgânica II
+SQF0327 Química Orgânica III
+SQM0455 Química Orgânica Medicinal
+SQF0357 Química Orgânica para Engenharia
+SQM0401 Química para Engenharia Ambiental
+SQM0468 Química para Engenharia Ambiental I
+SQM0470 Química para Engenharia Ambiental II
+SQM0462 Química para Engenharia I
+SQM0463 Química para Engenharia II
+SQM0420 Química Quântica
+SQM0422 Quimiometria
+SQM0443 Recurso Solo: Propriedades e Usos
+SQM0433 Redação de Documentos Técnicos
+SQM0441 Resíduos Químicos: Coleta, Tratamento e Descarte
+SQM0437 Sistema de Gestão Aplicados à Área de Saúde e Meio Ambiente
+SQM0435 Sistema Nbr Iso / Iec 17025
+SQM0426 Tecnologia Enzimática
+IAU0727 Arquitetura e Urbanismo Contemporâneos I
+IAU0728 Arquitetura e Urbanismo Contemporâneos II
+IAU0411 Arquitetura e Urbanismo I
+IAU0412 Arquitetura e Urbanismo II
+IAU0676 Arquitetura e Urbanismo, Ética e Sociedade
+IAU0723 Arte Contemporânea: introdução
+IAU0649 Conforto Ambiental nas Edificações
+IAU0675 Conforto Ambiental no Espaço Urbano
+IAU0409 Construção Civil I
+IAU0410 Construção Civil II
+IAU0309 Cultura, Ambiente e Desenvolvimento
+IAU0314 Cultura, Ambiente e Sustentabilidade I
+IAU0315 Cultura, Ambiente e Sustentabilidade II
+IAU0678 Desenho
+IAU0755 Desenho
+IAU0737 Desenho de Arquitetura I
+IAU0738 Desenho de Arquitetura II
+IAU0135 Desenho I
+IAU0144 Desenho Técnico - E A
+IAU0145 Desenho Técnico - E E
+IAU0313 Desenho Técnico para Engenharia Ambiental
+IAU0143 Design: projeto, tecnologia e cultura
+IAU0701 Estágio Supervisionado
+IAU0643 Estética I
+IAU0644 Estética II
+IAU0647 Estudos Sociais
+IAU0126 Humanidades e Ciências Sociais
+IAU0743 Informática na Arquitetura I
+IAU0744 Informática na Arquitetura II
+IAU0650 Iniciação à Pesquisa Científica
+IAU0648 Introdução à Arquitetura e Urbanismo Modernos
+IAU0401 Introdução à Filosofia da Ciência
+IAU0646 Introdução à História e Teoria da Arte e Linguagem
+IAU2119 Introdução à T. G. I.
+IAU0651 Introdução à Teoria da Arte, Arquitetura e da Cidade
+IAU0741 Linguagem da Arquitetura e da Cidade I
+IAU0742 Linguagem da Arquitetura e da Cidade II
+IAU0739 Linguagens Visuais I
+IAU0740 Linguagens Visuais II
+IAU0407 Materiais de Construção I
+IAU0408 Materiais de Construção II
+IAU0745 Paisagismo I
+IAU0746 Paisagismo II
+IAU0693 Parâmetros para Projetos Habitacionais em Madeira
+IAU0502 Patologia das Estruturas de Concreto
+IAU0310 Planejamento Ambiental e Urbanismo
+IAU0729 Plástica I
+IAU0730 Plástica II
+IAU0731 Projeto I-A
+IAU0732 Projeto I-B
+IAU0751 Projeto II-A
+IAU0752 Projeto II-B
+IAU0733 Projeto III-A
+IAU0734 Projeto III-B
+IAU0735 Projeto IV-A
+IAU0736 Projeto IV-B
+IAU2101 Seminários de Arquitetura Contemporânea  I-A
+IAU2104 Seminários de Arquitetura Contemporânea I-B
+IAU2107 Seminários de Arquitetura Contemporânea I-C
+IAU2110 Seminários de Arquitetura Contemporânea I-D
+IAU2113 Seminários de Arquitetura Contemporânea I-E
+IAU2116 Seminários de Arquitetura Contemporânea I-F
+IAU2102 Seminários de Arquitetura Contemporânea II-A
+IAU2105 Seminários de Arquitetura Contemporânea II-B
+IAU2108 Seminários de Arquitetura Contemporânea II-C
+IAU2111 Seminários de Arquitetura Contemporânea II-D
+IAU2114 Seminários de Arquitetura Contemporânea II-E
+IAU2117 Seminários de Arquitetura Contemporânea II-F
+IAU2103 Seminários de Arquitetura Contemporânea III-A
+IAU2106 Seminários de Arquitetura Contemporânea III-B
+IAU2109 Seminários de Arquitetura Contemporânea III-C
+IAU2112 Seminários de Arquitetura Contemporânea III-D
+IAU2115 Seminários de Arquitetura Contemporânea III-E
+IAU2118 Seminários de Arquitetura Contemporânea III-F
+IAU2122 Seminários de Arquitetura Contemporânea IV-A
+IAU2125 Seminários de Arquitetura Contemporânea IV-B
+IAU2128 Seminários de Arquitetura Contemporânea IV-C
+IAU2131 Seminários de Arquitetura Contemporânea IV-D
+IAU2134 Seminários de Arquitetura Contemporânea IV-E
+IAU2137 Seminários de Arquitetura Contemporânea IV-F
+IAU2123 Seminários de Arquitetura Contemporânea V-A
+IAU2126 Seminários de Arquitetura Contemporânea V-B
+IAU2129 Seminários de Arquitetura Contemporânea V-C
+IAU2132 Seminários de Arquitetura Contemporânea V-D
+IAU2135 Seminários de Arquitetura Contemporânea V-E
+IAU2138 Seminários de Arquitetura Contemporânea V-F
+IAU2124 Seminários de Arquitetura Contemporânea VI-A
+IAU2127 Seminários de Arquitetura Contemporânea VI-B
+IAU2130 Seminários de Arquitetura Contemporânea VI-C
+IAU2133 Seminários de Arquitetura Contemporânea VI-D
+IAU2136 Seminários de Arquitetura Contemporânea VI-E
+IAU2139 Seminários de Arquitetura Contemporânea VI-F
+IAU0747 Tecnologia das Construções I-A
+IAU0748 Tecnologia das Construções I-B
+IAU0749 Tecnologia das Construções II-A
+IAU0750 Tecnologia das Construções II-B
+IAU0503 Tecnologia dos Concretos Especiais - Concretos de Alto Desempenho
+IAU0753 Teoria e História da Arquitetura e do Urbanismo Modernos I
+IAU0754 Teoria e História da Arquitetura e do Urbanismo Modernos II
+IAU0725 Teoria e História da Arquitetura e Urbanismo no Brasil I
+IAU0726 Teoria e História da Arquitetura e Urbanismo no Brasil II
+IAU2120 Trabalho de Graduação Integrado I
+IAU2121 Trabalho de Graduação Integrado II
+IAU0756 Urbanização e Urbanismo no Brasil a partir de 1929
+IAU2005 Viagens Técnicas de Arquitetura  II-B
+IAU2007 Viagens Técnicas de Arquitetura  III-A
+IAU2001 Viagens Técnicas de Arquitetura I-A
+IAU2002 Viagens Técnicas de Arquitetura I-B
+IAU2003 Viagens Técnicas de Arquitetura I-C
+IAU2004 Viagens Técnicas de Arquitetura II-A
+IAU2006 Viagens Técnicas de Arquitetura II-C
+IAU2008 Viagens Técnicas de Arquitetura III-B
+IAU2009 Viagens Técnicas de Arquitetura III-C
+IAU2010 Viagens Técnicas de Arquitetura IV-A
+IAU2011 Viagens Técnicas de Arquitetura IV-B
+IAU2012 Viagens Técnicas de Arquitetura IV-C
+IAU2013 Viagens Técnicas de Arquitetura V-A
+IAU2014 Viagens Técnicas de Arquitetura V-B
+IAU2015 Viagens Técnicas de Arquitetura V-C
