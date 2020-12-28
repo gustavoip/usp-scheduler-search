@@ -11,6 +11,6 @@ Com esse projeto e algumas funções auxiliares simples, várias perguntas inter
 * qual é o máximo de disciplinas que consigo cursar nesse semestre?
 * qual é o máximo de disciplinas que consigo cursar nesse semestre **deixando as quintas-feiras livre**?
 * qual é o máximo de disciplinas que consigo cursar nesse semestre **sem aulas depois após 21:00**?
-
+* (...)
 	 
 Após a imposição das restrições desejadas, a geração das grades possíveis é trivial. 
