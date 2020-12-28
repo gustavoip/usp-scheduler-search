@@ -1,8 +1,8 @@
 # usp-scheduler-search
 
-Esse foi um script que eu construí anos atrás enquanto estava na USP para me auxiliar na escolher das disciplinas de cada semestre. 
+Esse foi um script que eu construí anos atrás, enquanto estava na USP, para me auxiliar na escolha das disciplinas de cada semestre. 
 
-Na prática, é um scrapper que consulta o Júpiter (um sistema específico da USP para esse fim) e constrói um conjunto de entidades com APIs bastante convenientes. 
+Na prática é um scrapper que consulta o Júpiter (um sistema específico da USP para gerenciar a matricula dos alunos) e e retorna um conjunto de entidades com APIs bastante convenientes para quem gosta de análise de dados. 
 
 Com esse projeto e algumas funções auxiliares simples, várias perguntas de otimização podem ser respondidas, como por exemplo: 
 
@@ -13,4 +13,4 @@ Com esse projeto e algumas funções auxiliares simples, várias perguntas de ot
 * qual é o máximo de disciplinas que consigo cursar nesse semestre **sem aulas depois após 21:00**?
 
 	 
-Após a imposição das restrições desejadas, a geração das grades possíveis era trivial. 
+Após a imposição das restrições desejadas, a geração das grades possíveis é trivial. 
