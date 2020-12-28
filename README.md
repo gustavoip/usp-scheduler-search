@@ -2,7 +2,7 @@
 
 Esse foi um script que eu construí anos atrás, enquanto estava na USP, para me auxiliar na escolha das disciplinas de cada semestre. 
 
-Na prática é um scrapper que consulta o Júpiter (um sistema específico da USP para gerenciar a matricula dos alunos) e e retorna um conjunto de entidades com APIs bastante convenientes para quem gosta de análise de dados. 
+Na prática é um scrapper que consulta o Júpiter (um sistema específico da USP para gerenciar a matricula dos alunos) e retorna um conjunto de entidades com APIs bastante convenientes para quem gosta de análise de dados. 
 
 Com esse projeto e algumas funções auxiliares simples, várias perguntas de otimização podem ser respondidas, como por exemplo: 
 
