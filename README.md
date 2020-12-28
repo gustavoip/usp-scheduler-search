@@ -9,7 +9,7 @@ Com esse projeto e algumas funções auxiliares simples, várias perguntas inter
 #### Dada as disciplinas atualmente ofertadas:
 * quais disciplinas o professor X vai lecionar esse semestre?
 * qual é o máximo de disciplinas que consigo cursar nesse semestre?
-* qual é o máximo de disciplinas que consigo cursar nesse semestre **sem aulas às quintas-feiras**?
+* qual é o máximo de disciplinas que consigo cursar nesse semestre **deixando as quintas-feiras livre**?
 * qual é o máximo de disciplinas que consigo cursar nesse semestre **sem aulas depois após 21:00**?
 
 	 
